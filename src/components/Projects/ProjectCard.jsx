@@ -80,7 +80,7 @@ export const ProjectCard = () => {
                     alt=""
                     className={styles.image}
                 />
-                <h3 className={styles.title}>Portfolio</h3>
+                <h3 className={styles.title}>Portfolio Site</h3>
                 <p className={styles.description}>I developed a personal portfolio website with a clean user interface to showcase 
                     my background, education, projects, and provide options for contact and downloading a résumé, offering a seamless 
                     experience for potential employers interested in hiring me. </p><br></br>
@@ -93,7 +93,7 @@ export const ProjectCard = () => {
                     </li>
                 </ul>
                 <div className={styles.links}>
-                    <a href="" className={styles.link}>
+                    <a href="https://venuraportfolio.vercel.app/" className={styles.link}>
                         Demo
                     </a>
                     <a href="https://github.com/VenuraDenethpriya/Portfolio" className={styles.link}>
