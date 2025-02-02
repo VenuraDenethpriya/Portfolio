@@ -80,7 +80,7 @@ export const ProjectCard = () => {
                     <a href="" className={styles.link}>
                         Demo
                     </a>
-                    <a href="" className={styles.link}>
+                    <a href="https://github.com/VenuraDenethpriya/Portfolio" className={styles.link}>
                         Source
                     </a>
                 </div>
