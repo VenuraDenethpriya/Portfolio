@@ -24,3 +24,19 @@
   gap: 45px;
   width: 100%;
 }
+
+@media screen and (max-width: 830px) {
+  h2 {
+    font-size: 24px; 
+    margin-bottom: 12px;
+  }
+
+  .title {
+    font-size: 24px;
+  }
+
+  .text h2 {
+    font-size: 24px;
+    margin-bottom: 12px;
+  }
+}
