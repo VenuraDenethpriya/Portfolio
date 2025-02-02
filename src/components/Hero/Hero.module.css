@@ -125,4 +125,23 @@
   .content {
     align-items: center;
   }
+
+  .title {
+    text-align: center;
+    font-size: 48px;  
+  }
+
+  .description {
+    text-align: center;
+    font-size: 24px;  
+  }
+
+  .heroImg {
+    width: 70%; 
+    padding-bottom: 20px;
+  }
+  .contactBtn, .contactBtn:hover {
+    font-size: 20px; 
+    padding: 12px 20px;  
+  }
 }
