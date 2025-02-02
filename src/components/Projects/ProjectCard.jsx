@@ -8,7 +8,7 @@ export const ProjectCard = () => {
         <>
             <div className={styles.container}>
                 <img
-                    src="../../../assests/projects/lfrs.png"
+                    src="./assests/lfrs.png"
                     alt=""
                     className={styles.image}
                 />
@@ -42,7 +42,7 @@ export const ProjectCard = () => {
 
                 <div className={styles.container}>
                     <img
-                        src="../../../assests/projects/mebius.png"
+                        src="./assests/mebius.png"
                         alt=""
                         className={styles.image}
                     />
@@ -76,7 +76,7 @@ export const ProjectCard = () => {
 
             <div className={styles.container}>
                 <img
-                    src="../../../assests/projects/portfolio.png"
+                    src="./assests/portfolio.png"
                     alt=""
                     className={styles.image}
                 />

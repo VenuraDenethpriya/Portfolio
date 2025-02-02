@@ -9,7 +9,7 @@ export const About = () => {
       <div className={styles.content}>
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-            <img src="../../../assests/about/usjp-logo.jpg" alt="usjlogo" />
+            <img src="./assests/usjp-logo.jpg" alt="usjlogo" />
             <div className={styles.aboutItemText}>
               <h3>BSC - honors in Business Information Systems</h3>
               <p>
@@ -18,7 +18,7 @@ export const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src="../../../assests/about/image.png" alt="Server icon" />
+            <img src="./assests/image.png" alt="Stemlink logo" />
             <div className={styles.aboutItemText}>
               <h3>Full-stack Engineering for Developers</h3>
               <p>

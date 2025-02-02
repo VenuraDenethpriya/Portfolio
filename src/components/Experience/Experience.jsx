@@ -10,49 +10,49 @@ export const Experience = () => {
                 <div className={styles.skills}>
                     <div className={styles.skill}>
                         <div className={styles.skillImageContainer}>
-                            <img src="../../../assests/skills/html.png"
+                            <img src="./assests/html.png"
                             />
                         </div>
                         <p>HTML</p>
                     </div>
                     <div className={styles.skill}>
                         <div className={styles.skillImageContainer}>
-                            <img src="../../../assests/skills/jslogo.png"
+                            <img src="./assests/jslogo.png"
                             />
                         </div>
                         <p>JavaScript</p>
                     </div>
                     <div className={styles.skill}>
                         <div className={styles.skillImageContainer}>
-                            <img src="../../../assests/skills/css.png"
+                            <img src="./assests/css.png"
                             />
                         </div>
                         <p>CSS</p>
                     </div>
                     <div className={styles.skill}>
                         <div className={styles.skillImageContainer}>
-                            <img src="../../../assests/skills/react.png"
+                            <img src="./assests/react.png"
                             />
                         </div>
                         <p>ReactJS</p>
                     </div>
                     <div className={styles.skill}>
                         <div className={styles.skillImageContainer}>
-                            <img src="../../../assests/skills/node.png"
+                            <img src="./assests/node.png"
                             />
                         </div>
                         <p>NodeJS</p>
                     </div>
                     <div className={styles.skill}>
                         <div className={styles.skillImageContainer}>
-                            <img src="../../../assests/skills/mongodb.png"
+                            <img src="./assests/mongodb.png"
                             />
                         </div>
                         <p>MongoDB</p>
                     </div>
                     <div className={styles.skill}>
                         <div className={styles.skillImageContainer}>
-                            <img src="../../../assests/skills/express.png"
+                            <img src="./assests/express.png"
                             />
                         </div>
                         <p>ExpressJS</p>
