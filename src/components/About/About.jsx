@@ -18,7 +18,10 @@ export const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src="./assests/image.png" alt="Stemlink logo" />
+            <img 
+              src="./assests/stemlink.png" 
+              className={styles.aboutImageS}
+              alt="Stemlink logo" />
             <div className={styles.aboutItemText}>
               <h3>Full-stack Engineering for Developers</h3>
               <p>
