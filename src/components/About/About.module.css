@@ -37,6 +37,9 @@
   flex-direction: column;
   gap: 50px;
 }
+.aboutImageS{
+  border-radius: 100%;
+}
 
 .aboutItem {
   display: flex;
