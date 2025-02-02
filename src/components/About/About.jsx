@@ -22,7 +22,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Full-stack Engineering for Developers</h3>
               <p>
-                I succussfully completed Full-stack Engineering for Developers Bootcamp
+                I succussfully completed Full-stack Engineering for Developers course at STEMLink.
               </p>
             </div>
           </li>

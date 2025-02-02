@@ -10,7 +10,7 @@ export const Hero = () => {
                 <p className={styles.description}>
                     I am a fourth-year undergraduate seeking an internship to gain experience and grow professionally.
                 </p>
-                <a href="/cv/IS Research Project Proposal.pdf" className={styles.contactBtn} download="IS Research Project Proposal.pdf">
+                <a href="/cv/VenuraCV.pdf" className={styles.contactBtn} download="VenuraCV.pdf">
                     Download CV
                 </a>
             </div>
