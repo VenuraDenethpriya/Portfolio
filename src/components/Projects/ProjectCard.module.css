@@ -60,3 +60,34 @@
   background: var(--color-primary);
   padding: 1px 22px;
 }
+
+@media screen and (max-width: 830px) {
+  .container {
+    margin-top: 40px;
+  }
+
+  .title {
+    font-size: 24px;  
+    margin-bottom: 15px;
+  }
+
+  .description {
+    font-size: 16px;
+  }
+
+  form label {
+    font-size: 16px;  
+    margin-bottom: 4px;
+  }
+
+  form input,
+  form textarea {
+    font-size: 14px;  
+    padding: 8px 12px; 
+  }
+
+  form button {
+    font-size: 16px;  
+    padding: 8px 16px; 
+  }
+}
