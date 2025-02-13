@@ -65,7 +65,7 @@ export const ProjectCard = () => {
                         </li>
                     </ul>
                     <div className={styles.links}>
-                        <a href="" className={styles.link}>
+                        <a href="https://mebius-venura-denethpriyas-projects.vercel.app/" className={styles.link}>
                             Demo
                         </a>
                         <a href="https://github.com/VenuraDenethpriya/E-commerce-site" className={styles.link}>
