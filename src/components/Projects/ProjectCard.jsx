@@ -46,7 +46,7 @@ export const ProjectCard = () => {
                         alt=""
                         className={styles.image}
                     />
-                    <h3 className={styles.title}>Mebius E-Commerce Site</h3>
+                    <h3 className={styles.title}>TechNest E-Commerce Site</h3>
                     <p className={styles.description}>Implement an e-commerce website using a streamlined user interface, RESTAPIs, 
                         a robust database, user authentication, and an integrated payment gateway to provide a seamless shopping 
                         experience.</p><br></br>
